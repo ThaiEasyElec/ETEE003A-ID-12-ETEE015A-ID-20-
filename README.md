@@ -8,3 +8,6 @@ How to connect ID12/ID20 with Arduino via SoftwareSerial.
 
 How to connect ID12/ID20 with Computer via USB to Serial. ETEE002 https://www.thaieasyelec.com/serial-uart-to-usb-mini-b-converter-v4.html
 ![image](https://user-images.githubusercontent.com/8803501/88252766-994ab100-ccd9-11ea-828b-cf96f787a06a.png)
+
+example use with Putty https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+![image](https://user-images.githubusercontent.com/8803501/88255783-8d63ec80-cce3-11ea-9bfc-99e822fc37c7.png)
